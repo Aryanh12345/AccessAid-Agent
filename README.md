@@ -416,6 +416,14 @@ The demo demonstrates:
 
 ---
 
+## Assets
+
+![AccessAid Architecture Diagram](assets/architecture_diagram.png)
+
+![AccessAid Cover Banner](assets/cover_page_banner.png)
+
+---
+
 # 🔒 Environment & Secrets
 
 Create a `.env` file locally:
