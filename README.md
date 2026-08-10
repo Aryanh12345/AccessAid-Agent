@@ -469,4 +469,6 @@ This project is licensed under the **MIT License**.
 
 **Built with Google ADK · Gemini · MCP · Python**
 
+**By Vishva Sanchela**
+
 </div>
